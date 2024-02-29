@@ -6,7 +6,7 @@ HLuseEditor是 **HLuse** 的一个小功能，独立出来开放使用，得益�
 
 
 #### 使用前提
-1. Bootsrap5环境（Bootsrap4后续提供）；
+1. Bootsrap5环境；
 2. 引入Bootsrap图标[https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)；
 3. 需支持 **Popper** 
 #### 安装教程
